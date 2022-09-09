@@ -1,0 +1,16 @@
+.App{
+    background-color: #fff;
+    padding: 30px;
+    width: 80%;
+    margin: 50px auto;
+
+}
+
+h2{
+    background-color: rgb(142 142 175);
+    color: rgb(8, 8, 87);
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
