@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Curd-App/static/css/main.3960ad84.css",
+    "main.js": "/Curd-App/static/js/main.3fcc5c1c.js",
+    "static/js/787.ecfdea4a.chunk.js": "/Curd-App/static/js/787.ecfdea4a.chunk.js",
+    "index.html": "/Curd-App/index.html",
+    "main.3960ad84.css.map": "/Curd-App/static/css/main.3960ad84.css.map",
+    "main.3fcc5c1c.js.map": "/Curd-App/static/js/main.3fcc5c1c.js.map",
+    "787.ecfdea4a.chunk.js.map": "/Curd-App/static/js/787.ecfdea4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3960ad84.css",
+    "static/js/main.3fcc5c1c.js"
+  ]
+}
